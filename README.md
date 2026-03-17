@@ -122,7 +122,7 @@ It helps businesses understand trends, identify profitable areas, and make data-
 
 ## 📸 Dashboard Preview
 
-
+![Madhav Ecommerce Sales](https://raw.githubusercontent.com/vyoma-04/MADHAV-ECOMMERCE-SALES/main/madhav.png)
 ---
 
 ## 📈 Future Improvements
